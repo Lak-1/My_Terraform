@@ -1,0 +1,1 @@
+in this learning project,using S3 and remote backend to store .tfstate file and dynamodb for lock purpose
